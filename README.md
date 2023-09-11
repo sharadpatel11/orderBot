@@ -1,5 +1,4 @@
 # orderBot
-Chatbot using OpenAI and Prompt Engineering
 
 - Crafted an interactive ChatBot leveraging OpenAI technology and and Prompt Engineering.
 - Enhance user experience by guiding and facilitating order placement seamlessly.
